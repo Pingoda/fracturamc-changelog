@@ -1,0 +1,6 @@
+github:
+  owner: Pingoda
+  repo: pingoda/fracturamc-changelog
+  path: changelogs/
+  auth:
+    accessToken: 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
